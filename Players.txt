@@ -1,0 +1,415 @@
+Manuel Neuer
+GK
+Germany
+BAY
+90
+Thibaut Courtois
+GK
+Belgium
+RMA
+90
+Marc-Andre ter Stegen
+GK
+Germany
+BAR
+89
+Ederson
+GK
+Brazil
+MCI
+89
+Alisson Becker
+GK
+Brazil
+LIV
+89
+Jan Oblak
+GK
+Slovenia
+ATM
+88
+Gianluigi Donnarumma
+GK
+Italy
+MIL
+87
+Ruben Dias
+LCB
+Portugal
+MCI
+89
+Kalidou Koulibaly
+LCB
+Senegal
+HIL
+84
+Marquinhos
+LCB
+Brazil
+PSG
+88
+Antonio Rudiger
+LCB
+Germany
+RMA
+85
+Aymeric Laporte
+LCB
+Spain
+NAS
+85
+Sergio Ramos
+LCB
+Spain
+RMA
+89
+Jose Gimenez
+LCB
+Uruguay
+ATM
+83
+Eder Militao
+RCB
+Brazil
+RMA
+86
+Jules Kounde
+RCB
+France
+FCB
+85
+Virgil van Dijk
+RCB
+Netherlands
+LIV
+90
+Raphael Varane
+RCB
+France
+MUN
+85
+Matthijs de Ligt
+RCB
+Netherlands
+BAY
+86
+Milan Skriniar
+RCB
+Slovakia
+PSG
+84
+Ronald Araujo
+RCB
+Uruguay
+BAR
+86
+Andrew Robertson
+LB
+Scotland
+LIV
+86
+Lucas Hernandez
+LB
+France
+PSG
+84
+Jordi Alba
+LB
+Spain
+BAR
+86
+Alphonso Davies
+LB
+Canada
+BAY
+84
+Theo Hernandez
+LB
+France
+MIL
+85
+Ferland Mendy
+LB
+France
+RMA
+82
+Ben Chilwell
+LB
+England
+CHE
+81
+Joao Cancelo
+LB
+Portugal
+BAR
+86
+Trent Alexander-Arnold
+RB
+England
+LIV
+86
+Achraf Hakimi
+RB
+Morocco
+PSG
+84
+Kyle Walker
+RB
+England
+MCI
+84
+Reece James
+RB
+England
+CHE
+84
+Aaron Wan-Bissaka
+RB
+England
+MUN
+80
+Kieran Trippier
+RB
+England
+NEW
+85
+Nelson Semedo
+RB
+Portugal
+WOL
+78
+Joshua Kimmich
+CDM
+Germany
+BAY
+88
+N'Golo Kanté
+CDM
+France
+ITT
+86
+Thomas Partey
+CDM
+Ghana
+ARS
+85
+Fabinho
+CDM
+Brazil
+ITT
+84
+Wilfred Ndidi
+CDM
+Nigeria
+LEI
+79
+Marcelo Brozovic
+CDM
+Croatia
+NAS
+83
+Sergio Busquets
+CDM
+Spain
+FCB
+83
+Declan Rice
+CDM
+England
+ARS
+85
+Jorginho
+CDM
+Italy
+ARS
+83
+Bruno Fernandes
+LCM
+Portugal
+MUN
+88
+Thomas Muller
+LCM
+Germany
+BAY
+84
+Kai Havertz
+LCM
+Germany
+ARS
+82
+Dele Alli
+LCM
+England
+EVE
+75
+James Maddison
+LCM
+England
+TOT
+84
+Mason Mount
+LCM
+England
+MUN
+81
+Houssem Aouar
+LCM
+France
+ASR
+76
+Kevin De Bruyne
+RCM
+Belgium
+MCI
+91
+Frenkie de Jong
+RCM
+Netherlands
+BAR
+87
+Toni Kroos
+RCM
+Germany
+RMA
+86
+Casemiro
+RCM
+Brazil
+MUN
+89
+Paul Pogba
+RCM
+France
+MUN
+87
+Marco Verratti
+RCM
+Italy
+PSG
+87
+Luka Modric
+RCM
+Croatia
+RMA
+87
+Rodri
+RCM
+Spain
+MCI
+89
+Robert Lewandowski
+ST
+Poland
+BAY
+90
+Romelu Lukaku
+ST
+Belgium
+ASR
+84
+Harry Kane
+ST
+England
+BAY
+90
+Erling Haaland
+ST
+Norway
+MCI
+91
+Cristiano Ronaldo
+ST
+Portugal
+NAS
+86
+Joao Felix
+ST
+Portugal
+BAR
+81
+Antoine Griezmann
+ST
+France
+ATM
+88
+Kylian Mbappe
+ST
+France
+PSG
+91
+Neymar Jr
+LW
+Brazil
+HIL
+89
+Sadio Mane
+LW
+Senegal
+NAS
+86
+Raheem Sterling
+LW
+England
+CHE
+83
+Son Heung-min
+LW
+South Korea
+TOT
+87
+Marcus Rashford
+LW
+England
+MUN
+85
+Leroy Sane
+LW
+Germany
+BAY
+84
+Kingsley Coman
+LW
+France
+BAY
+85
+Mohamed Salah
+RW
+Egypt
+LIV
+89
+Marco Asensio
+RW
+Spain
+PSG
+83
+Hakim Ziyech
+RW
+Morocco
+GAL
+80
+Riyad Mahrez
+RW
+Algeria
+AHL
+86
+Bernardo Silva
+RW
+Portugal
+MCI
+88
+Federico Chiesa
+RW
+Italy
+JUV
+84
+Lionel Messi
+RW
+Argentina
+PSG
+90
+Rodrygo
+RW
+Brazil
+RMA
+85
